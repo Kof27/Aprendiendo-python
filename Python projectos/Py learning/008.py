@@ -1,0 +1,5 @@
+print ("Please enter the total of the bill")
+TotalBill = int (input(""))
+print ("Now write the number of the dinners")
+Dinners = int (input(""))
+print ("The total is $", TotalBill, "But each person pay $", TotalBill/Dinners)
